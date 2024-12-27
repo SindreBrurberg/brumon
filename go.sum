@@ -1,0 +1,4 @@
+github.com/iidesho/bragi v0.7.6 h1:PXRd0zqriJ1MaCP3ApL8kPtEF+l6Is7WVRJ4kcY22Vo=
+github.com/iidesho/bragi v0.7.6/go.mod h1:VPd3Rcxjshs3somxhEacHLiC58z35GuPPJgARHwsNLs=
+github.com/ricochet2200/go-disk-usage/du v0.0.0-20210707232629-ac9918953285 h1:d54EL9l+XteliUfUCGsEwwuk65dmmxX85VXF+9T6+50=
+github.com/ricochet2200/go-disk-usage/du v0.0.0-20210707232629-ac9918953285/go.mod h1:fxIDly1xtudczrZeOOlfaUvd2OPb2qZAPuWdU2BsBTk=
